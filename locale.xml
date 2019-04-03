@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locales>
+
+    <groups name="quiqqer/template-cologne" datatype="php,js">
+        <locale name="package.title">
+            <de><![CDATA[QUIQQER E-Commerce Inheritance Example - Template]]></de>
+            <en><![CDATA[QUIQQER E-Commerce Inheritance Example - Template]]></en>
+        </locale>
+        <locale name="package.description">
+            <de><![CDATA[Dies ist ein Beispiel wie vererbte Templates funktionieren]]></de>
+            <en><![CDATA[This is an example of how inherited templates work]]></en>
+        </locale>
+    </groups>
+
+</locales>
