@@ -2,8 +2,8 @@
   "name": "quiqqer\/template-inheritance-example",
   "type": "quiqqer-template",
   "description": "The QUIQQER Inheritance E-Commerce Template example",
-  "version": "dev-master",
-  "license": "GPLv3",
+  "version": "dev-dev",
+  "license": "MIT",
   "authors": [
     {
       "name": "Henning Leutz",
