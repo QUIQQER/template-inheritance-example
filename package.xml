@@ -8,7 +8,7 @@
             <locale group="quiqqer/template-inheritance-example" var="package.description"/>
         </description>
 
-        <parent>quiqqer/template-cologne</parent>
+        <template_parent>quiqqer/template-cologne</template_parent>
 
         <support>
             <email>support@pcsg.de</email>
