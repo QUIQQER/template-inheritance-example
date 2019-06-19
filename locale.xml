@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <locales>
 
-    <groups name="quiqqer/template-cologne" datatype="php,js">
+    <groups name="quiqqer/template-inheritance-example" datatype="php,js">
         <locale name="package.title">
             <de><![CDATA[QUIQQER E-Commerce Inheritance Example - Template]]></de>
             <en><![CDATA[QUIQQER E-Commerce Inheritance Example - Template]]></en>
